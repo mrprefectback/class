@@ -1,0 +1,84 @@
+<html>
+    <head>
+        <title>Admission Form</title>
+    </head>
+    <body>
+        <form>
+            <h2>StudentAdmission Form:</h2>
+            <label for="Name">Name*:</label>
+            <input type="text" id="Name" name="Students_name" placeholder="Student Name" required>
+            <br>
+            <br>
+
+            <label for="father_Name">Father Name*:</label>
+            <input type="text" id="father_Name" name="student_father_Name" placeholder="Father Name" required>
+            <br>
+            <br>
+
+            <label for="mobile_Number">Mobile Number*:</label>
+            <input type="number" id="mobile_Number" name="student_mobile_numbere" placeholder="10 Digit Mobile Number">
+            <br>
+            <br>
+
+            <label for="adhar_card_number">Adhar Card Number*:</label>
+            <input type="Number" id="adhar_card_number" name="studnet_adhar_card_number" placeholder="12 Digit Number" required><br><br>
+
+            <label for="email">Email*:</label>
+            <input type="email" id="email" name="student_Email" placeholder="Email address">
+            <br>
+            <br>
+
+            <label for="male">Male</label>
+            <input type="radio" id="male" name="student_gender">
+            <label for="female">Female</label>
+            <input type="radio" id="female" name="student_gender">
+            <br>
+            <br>
+            
+            <label for="dca">DCA</label>
+            <input type="checkbox" id="dca" name="student_course">
+
+            <label for="adca">ADCA</label>
+            <input type="checkbox" id="adca" name="student_course">
+
+            <label for="dtp">DTP</label>
+            <input type="checkbox" id="dtp" name="student_course">
+            <br>
+            <br>
+
+            <label for="password">Password*:</label>
+            <input type="password" id="password" name="student_password" placeholder="minimium od 10 digit">
+            <br>
+            <br>
+
+            <label for="confirm password">Confirm Password*:</label>
+            <input type="confirm password" id="confirm password" name="student_confirm_password" placeholder="Confirm Password">
+            <br>
+            <br>
+            <label for="state">Select State</label>
+            <select>
+                <option>Select State</option>
+                <option>BIHAR</option>
+                <option>UTTAR PRADESH</option>
+                <option>JHARKHAND</option>
+                <option>MADHYA PRADESH</option>
+            </select>
+            <br>
+            <br>
+            <label for="student_picture">Student Picture</label>
+            <input type="file" id="student_picture" name="users_pic">
+            <br>
+            <br>
+            <label for="dob">D.O.B</label>
+            <input type="date" name="users_date_of_birth" id="dob" required>
+            <br>
+            <br>
+            
+            <label for="address">Address:*</label>
+            <textarea cols="30" rows="10" placeholder="Enter your address" id="address" required></textarea><br><br>
+
+            <input type="Submit" value="Select">
+            <input type="Reset" value="Reset">
+        </form>
+    </body>
+</html>
