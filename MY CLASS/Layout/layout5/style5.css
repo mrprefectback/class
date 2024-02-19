@@ -1,0 +1,165 @@
+/* nav bar start from here */
+.nav_bar
+{
+    height: 80px;
+    width: 100%;
+    background-color: gray;
+    border: 2px solid black;
+}
+/* nav bar END here */
+/* header start from here */
+.header
+{
+    margin-top: 10px;
+    height: 250px;
+    width: 100%;
+    background-color: gray;
+    border: 2px solid black;
+}
+/* header END here */
+
+/* item bar start from here */
+.items_bar
+{
+    margin-top: 10px;
+    height: 220px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+/* item bar END here */
+
+/* item1 bar start from here */
+.item1
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item1 bar END here */
+/* item2 bar start from here */
+.item2
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item2 bar END here */
+
+/* item3 bar start from here */
+.item3
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item3 bar END here */
+
+/* item bar1 start from here */
+.items_bar1
+{
+    margin-top: 10px;
+    height: 220px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+/* item bar1 END here */
+
+/* item4 bar start from here */
+.item4
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item4 bar END here */
+
+/* item5 bar start from here */
+.item5
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item5 bar END here */
+
+
+/* item6 bar start from here */
+.item6
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item6 bar END here */
+
+/* item bar 2 start from here */
+.items_bar2
+{
+    margin-top: 10px;
+    height: 220px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+/* item bar 2 END here */
+
+/* item7 bar start from here */
+.item7
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item7 bar END here */
+
+/* item8 bar start from here */
+.item8
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item8 bar END here */
+
+/* item9 bar start from here */
+.item9
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item9 bar END here */
+
+/* footer start from here */
+.footer
+{
+    margin-top: 10px;
+    height: 200px;
+    width: 100%;
+    background-color: gray;
+    border: 2px solid black;
+}
+/* footer end from here */

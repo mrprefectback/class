@@ -1,0 +1,118 @@
+/* nav bar start from here */
+.nav_bar
+{
+    height: 80px;
+    width: 100%;
+    background-color: gray;
+    border: 2px solid black;
+}
+/* nav bar END here */
+/* header start from here */
+.header
+{
+    margin-top: 10px;
+    height: 250px;
+    width: 100%;
+    background-color: gray;
+    border: 2px solid black;
+}
+/* header END here */
+
+/* item bar start from here */
+.items_bar
+{
+    margin-top: 10px;
+    height: 220px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+/* item bar END here */
+
+/* item1 bar start from here */
+.item1
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item1 bar END here */
+/* item2 bar start from here */
+.item2
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item2 bar END here */
+
+/* item3 bar start from here */
+.item3
+{
+    height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+}
+/* item3 bar END here */
+/* image description container start from here */
+.image_description_container
+{
+    margin-top: 10px;
+    height: 450px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+/* image1 start from here */
+.image1
+{height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+
+    
+}
+/* image1 END here */
+
+/* image2 start from here */
+.image2
+{height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+}
+/* image2 END here */
+
+/* description start from here */
+.description
+{height: 100%;
+    width: 32%;
+    background-color: gray;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* description END here */
+
+/* image description container END here */
+
+/* footer start from here */
+.footer
+{
+    margin-top: 10px;
+    height: 200px;
+    width: 100%;
+    background-color: gray;
+    border: 2px solid black;
+}
+/* footer end from here */

@@ -1,0 +1,107 @@
+/* Header Start */
+
+.header_container
+{
+    background-color:gray;
+    height: 200px;
+    width: 100%;
+    border:2px solid black;
+}
+
+/* header END */
+
+/* image_description start from here */
+.image_description
+{
+    margin-top: 10px;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}    
+
+/* image_description END here */
+
+
+/* image start from here */
+
+.image
+{
+    background-color: gray;
+    height: 300px;
+    width: 20%;
+    border: 2px solid black;
+}
+
+/* image END here */
+
+/* description start from here */
+
+
+.description
+{
+    background-color: gray;
+    height: 300px;
+    width: 78%;
+    border: 2px solid black;
+}
+    
+/* description END here */
+
+/* slider panel start form here */
+
+.slider_panel
+{
+    margin-top: 10px;
+    height: 220px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}    
+/* slider panel END here */
+
+/* footer start from here */
+/* slider1 start frome here */
+
+.slider1
+{
+    background-color: gray;
+    height: 200px;
+    width: 30%;
+    border: 2px solid black;
+}
+/* slider1 END here */
+
+/* slider2 start frome here */
+.slider2
+{
+    background-color: gray;
+    height: 200px;
+    width: 30%;
+    border: 2px solid black;
+}
+
+/* slider1 END here */
+
+/* slider3 start frome here */
+.slider3
+{
+    background-color: gray;
+    height: 200px;
+    width: 30%;
+    border: 2px solid black;
+}
+
+/* slider3 END here */
+.footer
+{
+    margin-top: 2px;
+    background-color: gray;
+    height: 200px;
+    width: 100%;
+    border: 2px solid black;
+}
+
+/* footer END here */
